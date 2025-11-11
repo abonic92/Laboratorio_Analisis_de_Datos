@@ -26,12 +26,13 @@ Proyecto_POSNET/
 - colab — entorno para ejecutar el notebook
 
 ##Guía de Uso
+
 Para replicar este análisis, seguí los siguientes pasos:
 
-Cloná este repositorio en tu máquina local. https://github.com/abonic92/Laboratorio_Analisis_de_Datos.git
-Abrí el archivo Laboratorio.ipynb en Google Colab o Jupyter.
-Aseguráte de que los archivos info_terminales.csv  y  ingesta_posnet.csv  que estan el la carpeta input de este repositorio, esten en el mismo directorio.
-Ejecutá las celdas del notebook secuencialmente para ver el flujo completo del análisis.
+- Cloná este repositorio en tu máquina local. https://github.com/abonic92/Laboratorio_Analisis_de_Datos.git
+- Abrí el archivo Laboratorio.ipynb en Google Colab o Jupyter.
+- Aseguráte de que los archivos info_terminales.csv  y  ingesta_posnet.csv  que estan el la carpeta input de este repositorio, esten en el mismo directorio.
+- Ejecutá las celdas del notebook secuencialmente para ver el flujo completo del análisis.
 
 ## Objetivos del análisis
 - Analizar el comportamiento operativo de POSNET a nivel nacional.  
