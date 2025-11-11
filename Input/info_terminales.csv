@@ -1,0 +1,1001 @@
+comercio_id;nombre_comercio;provincia;rubro;antiguedad_años
+1;Bright Works Group;Salta;Comercio;4
+2;Bright Innovations Mark;Mendoza;Gastronomía;10
+3;Apex Labs Sphere;Misiones;Supermercado;12
+4;Global Edge Associates;Chaco;Supermercado;1
+5;Dynamic Ventures Hub;Salta;Farmacia;10
+6;Vanguard Consulting Group;Entre Ríos;Gastronomía;6
+7;Summit Group Inc;Santa Fe;Farmacia;2
+8;Evergreen Innovations Mark;Salta;Gastronomía;13
+9;Summit Solutions Partners;Misiones;Comercio;3
+10;Vanguard Corp Inc;Chaco;Electrónica;14
+11;Premier Edge Services;Mendoza;Ropa;8
+12;Advanced Group Services;Misiones;Servicios;10
+13;Pinnacle Labs Co;Misiones;Gastronomía;14
+14;Strategic Dynamics Inc;Santa Fe;Electrónica;14
+15;Vanguard Consulting Partners;Tucumán;Ropa;6
+16;Apex Corp Co;Chaco;Ferretería;3
+17;Apex Link Services;Córdoba;Comercio;7
+18;Advanced Analytics Mark;Misiones;Farmacia;4
+19;Evergreen Forge Net;Tucumán;Farmacia;14
+20;Advanced Works Associates;Córdoba;Supermercado;9
+21;Evergreen Labs Services;Chaco;Ropa;5
+22;Optimal Group Services;Buenos Aires;Ferretería;3
+23;Optimal Edge Partners;Entre Ríos;Electrónica;2
+24;Elite Works Services;Tucumán;Comercio;11
+25;Apex Ventures Associates;Neuquén;Ropa;2
+26;Vanguard Innovations Partners;Buenos Aires;Ferretería;3
+27;Bright Innovations Sphere;Entre Ríos;Servicios;2
+28;Optimal Ventures Co;Santa Fe;Gastronomía;14
+29;Global Labs Sphere;Salta;Farmacia;4
+30;Vanguard Labs Tech;Mendoza;Electrónica;2
+31;Apex Solutions Partners;Neuquén;Farmacia;10
+32;Premier Enterprises Sphere;Santa Fe;Electrónica;9
+33;Pinnacle Analytics Partners;Chaco;Supermercado;2
+34;Apex Forge Net;Santa Fe;Electrónica;9
+35;Advanced Consulting Partners;Salta;Farmacia;13
+36;Global Works Services;Chaco;Electrónica;6
+37;Summit Dynamics Net;Neuquén;Servicios;1
+38;Bright Enterprises Inc;Salta;Supermercado;4
+39;Advanced Group Inc;Córdoba;Electrónica;14
+40;Dynamic Works Group;Mendoza;Ropa;1
+41;Summit Forge Mark;Neuquén;Restaurante;14
+42;Advanced Link Group;Córdoba;Ferretería;6
+43;Vanguard Link Inc;Entre Ríos;Restaurante;14
+44;Bright Edge Hub;Neuquén;Restaurante;13
+45;Summit Innovations Partners;Entre Ríos;Comercio;4
+46;Global Innovations Hub;Chaco;Servicios;3
+47;Premier Enterprises Net;Córdoba;Ropa;3
+48;Dynamic Group Solutions;Mendoza;Gastronomía;9
+49;Pinnacle Solutions Tech;Salta;Electrónica;6
+50;Blue Consulting Net;Misiones;Ferretería;9
+51;Optimal Edge Solutions;Santa Fe;Supermercado;13
+52;Optimal Enterprises Mark;Buenos Aires;Ropa;5
+53;Innovative Innovations Co;Mendoza;Farmacia;2
+54;Apex Forge Mark;Córdoba;Gastronomía;8
+55;Dynamic Enterprises Hub;Misiones;Comercio;5
+56;Blue Analytics Mark;Mendoza;Comercio;2
+57;Evergreen Solutions Tech;Córdoba;Ropa;4
+58;Innovative Link Inc;Tucumán;Restaurante;9
+59;Advanced Innovations Sphere;Tucumán;Farmacia;4
+60;Vanguard Labs Hub;Entre Ríos;Comercio;13
+61;Evergreen Group Net;Mendoza;Ferretería;12
+62;Vanguard Corp Services;Tucumán;Comercio;12
+63;Elite Solutions Group;Córdoba;Supermercado;12
+64;Dynamic Enterprises Tech;Entre Ríos;Electrónica;13
+65;Optimal Dynamics Services;Córdoba;Comercio;14
+66;Premier Enterprises Hub;Entre Ríos;Supermercado;4
+67;Evergreen Edge Inc;Mendoza;Ropa;2
+68;Strategic Corp Partners;Misiones;Ropa;13
+69;Summit Enterprises Inc;Salta;Gastronomía;12
+70;Dynamic Corp Solutions;Neuquén;Comercio;6
+71;Elite Ventures Services;Misiones;Ferretería;13
+72;Bright Solutions Mark;Chaco;Comercio;11
+73;Apex Consulting Partners;Córdoba;Ferretería;14
+74;Apex Group Mark;Chaco;Servicios;2
+75;Global Analytics Group;Misiones;Gastronomía;12
+76;Blue Systems Partners;Entre Ríos;Servicios;7
+77;Blue Dynamics Group;Neuquén;Comercio;3
+78;Global Dynamics Sphere;Neuquén;Gastronomía;3
+79;Summit Group Tech;Buenos Aires;Servicios;5
+80;Pinnacle Edge Services;Neuquén;Restaurante;3
+81;Advanced Works Net;Salta;Comercio;2
+82;Pinnacle Ventures Co;Neuquén;Servicios;10
+83;Apex Edge Hub;Misiones;Restaurante;9
+84;Dynamic Group Associates;Buenos Aires;Restaurante;2
+85;Evergreen Enterprises Associates;Misiones;Ropa;14
+86;Innovative Group Co;Misiones;Comercio;11
+87;Elite Corp Group;Santa Fe;Restaurante;2
+88;Evergreen Works Sphere;Buenos Aires;Ropa;13
+89;Elite Solutions Services;Misiones;Servicios;8
+90;Strategic Corp Services;Santa Fe;Supermercado;9
+91;Dynamic Solutions Partners;Santa Fe;Comercio;7
+92;Advanced Enterprises Associates;Buenos Aires;Gastronomía;3
+93;Elite Labs Solutions;Chaco;Ferretería;9
+94;Optimal Dynamics Solutions;Entre Ríos;Ferretería;3
+95;Global Corp Solutions;Salta;Servicios;5
+96;Global Systems Solutions;Entre Ríos;Servicios;9
+97;Vanguard Link Mark;Neuquén;Restaurante;12
+98;Advanced Enterprises Mark;Salta;Comercio;14
+99;Optimal Link Net;Neuquén;Ferretería;14
+100;Premier Works Inc;Misiones;Ferretería;3
+101;Elite Works Hub;Córdoba;Restaurante;7
+102;Elite Corp Co;Buenos Aires;Ferretería;12
+103;Bright Link Net;Salta;Gastronomía;1
+104;Elite Works Net;Salta;Comercio;4
+105;Blue Solutions Partners;Misiones;Electrónica;4
+106;Innovative Labs Net;Chaco;Ferretería;7
+107;Dynamic Analytics Associates;Santa Fe;Servicios;8
+108;Apex Systems Tech;Misiones;Gastronomía;1
+109;Elite Works Solutions;Tucumán;Ferretería;5
+110;Innovative Edge Partners;Santa Fe;Gastronomía;7
+111;Dynamic Innovations Group;Buenos Aires;Ropa;12
+112;Vanguard Ventures Solutions;Santa Fe;Electrónica;4
+113;Optimal Systems Net;Chaco;Farmacia;13
+114;Optimal Labs Co;Santa Fe;Servicios;4
+115;Bright Corp Partners;Buenos Aires;Servicios;4
+116;Summit Solutions Co;Chaco;Comercio;12
+117;Blue Systems Services;Entre Ríos;Gastronomía;6
+118;Strategic Ventures Mark;Salta;Restaurante;7
+119;Blue Group Solutions;Salta;Servicios;2
+120;Bright Solutions Tech;Neuquén;Gastronomía;5
+121;Strategic Dynamics Mark;Entre Ríos;Gastronomía;4
+122;Blue Enterprises Mark;Entre Ríos;Supermercado;14
+123;Strategic Systems Co;Santa Fe;Supermercado;13
+124;Elite Forge Solutions;Salta;Farmacia;3
+125;Global Labs Associates;Buenos Aires;Ropa;7
+126;Summit Consulting Tech;Mendoza;Farmacia;11
+127;Premier Labs Associates;Mendoza;Ferretería;12
+128;Dynamic Labs Co;Chaco;Restaurante;6
+129;Evergreen Labs Tech;Salta;Ferretería;14
+130;Premier Analytics Group;Salta;Ferretería;7
+131;Evergreen Ventures Group;Mendoza;Comercio;5
+132;Apex Works Sphere;Salta;Ferretería;13
+133;Bright Edge Inc;Santa Fe;Farmacia;6
+134;Blue Consulting Hub;Tucumán;Servicios;5
+135;Premier Corp Sphere;Córdoba;Servicios;14
+136;Dynamic Innovations Solutions;Entre Ríos;Supermercado;7
+137;Premier Ventures Group;Neuquén;Restaurante;2
+138;Advanced Corp Mark;Chaco;Restaurante;14
+139;Global Group Partners;Tucumán;Comercio;11
+140;Advanced Link Inc;Mendoza;Farmacia;5
+141;Strategic Group Tech;Entre Ríos;Supermercado;6
+142;Bright Consulting Mark;Salta;Restaurante;6
+143;Elite Solutions Mark;Neuquén;Servicios;5
+144;Blue Works Mark;Salta;Ferretería;10
+145;Dynamic Consulting Mark;Buenos Aires;Ferretería;7
+146;Strategic Systems Partners;Buenos Aires;Supermercado;10
+147;Strategic Labs Solutions;Neuquén;Farmacia;8
+148;Optimal Labs Group;Neuquén;Farmacia;7
+149;Advanced Works Services;Mendoza;Ropa;5
+150;Premier Works Net;Neuquén;Electrónica;1
+151;Dynamic Works Associates;Santa Fe;Restaurante;13
+152;Global Enterprises Inc;Salta;Farmacia;5
+153;Apex Innovations Services;Tucumán;Servicios;10
+154;Blue Systems Net;Misiones;Supermercado;2
+155;Summit Systems Partners;Neuquén;Ropa;13
+156;Vanguard Enterprises Group;Chaco;Gastronomía;5
+157;Dynamic Consulting Co;Buenos Aires;Comercio;5
+158;Premier Corp Net;Santa Fe;Gastronomía;2
+159;Evergreen Edge Group;Entre Ríos;Ferretería;5
+160;Blue Consulting Associates;Misiones;Comercio;13
+161;Bright Labs Associates;Tucumán;Restaurante;4
+162;Vanguard Ventures Partners;Misiones;Servicios;1
+163;Blue Works Hub;Neuquén;Comercio;3
+164;Pinnacle Innovations Sphere;Mendoza;Electrónica;1
+165;Apex Analytics Solutions;Buenos Aires;Gastronomía;12
+166;Evergreen Ventures Services;Buenos Aires;Restaurante;11
+167;Advanced Dynamics Solutions;Entre Ríos;Electrónica;5
+168;Vanguard Labs Solutions;Mendoza;Ferretería;4
+169;Evergreen Solutions Net;Salta;Electrónica;7
+170;Bright Forge Associates;Córdoba;Ropa;5
+171;Elite Ventures Net;Santa Fe;Ropa;10
+172;Advanced Group Sphere;Buenos Aires;Supermercado;14
+173;Premier Works Co;Chaco;Restaurante;4
+174;Vanguard Ventures Group;Buenos Aires;Ferretería;2
+175;Apex Corp Sphere;Misiones;Farmacia;4
+176;Optimal Forge Group;Buenos Aires;Ropa;12
+177;Premier Analytics Net;Buenos Aires;Restaurante;2
+178;Dynamic Solutions Inc;Córdoba;Farmacia;8
+179;Dynamic Edge Tech;Córdoba;Supermercado;3
+180;Global Ventures Partners;Tucumán;Electrónica;9
+181;Dynamic Enterprises Group;Salta;Ropa;13
+182;Summit Works Net;Chaco;Restaurante;4
+183;Advanced Consulting Sphere;Buenos Aires;Comercio;13
+184;Pinnacle Group Tech;Buenos Aires;Farmacia;6
+185;Apex Consulting Services;Santa Fe;Electrónica;10
+186;Premier Link Hub;Córdoba;Ropa;5
+187;Bright Dynamics Services;Chaco;Ferretería;10
+188;Apex Solutions Services;Entre Ríos;Farmacia;13
+189;Innovative Ventures Co;Tucumán;Ropa;1
+190;Premier Solutions Tech;Salta;Farmacia;9
+191;Innovative Dynamics Services;Mendoza;Electrónica;1
+192;Pinnacle Corp Partners;Salta;Ropa;8
+193;Pinnacle Link Tech;Misiones;Gastronomía;9
+194;Advanced Group Associates;Buenos Aires;Restaurante;9
+195;Pinnacle Innovations Services;Tucumán;Electrónica;1
+196;Blue Group Net;Misiones;Farmacia;2
+197;Innovative Analytics Associates;Chaco;Ferretería;12
+198;Global Analytics Associates;Mendoza;Comercio;13
+199;Elite Enterprises Services;Córdoba;Farmacia;1
+200;Summit Ventures Co;Tucumán;Restaurante;10
+201;Blue Corp Hub;Tucumán;Ropa;2
+202;Innovative Ventures Mark;Buenos Aires;Comercio;10
+203;Dynamic Consulting Net;Neuquén;Servicios;12
+204;Premier Dynamics Net;Tucumán;Farmacia;8
+205;Premier Systems Group;Santa Fe;Supermercado;5
+206;Blue Link Services;Mendoza;Servicios;12
+207;Blue Analytics Hub;Mendoza;Farmacia;11
+208;Summit Corp Associates;Santa Fe;Gastronomía;7
+209;Innovative Works Mark;Entre Ríos;Supermercado;2
+210;Strategic Corp Solutions;Santa Fe;Comercio;8
+211;Vanguard Solutions Hub;Santa Fe;Ferretería;11
+212;Pinnacle Group Hub;Mendoza;Gastronomía;6
+213;Strategic Solutions Group;Salta;Servicios;8
+214;Innovative Forge Co;Mendoza;Ropa;1
+215;Elite Systems Tech;Neuquén;Restaurante;1
+216;Optimal Systems Services;Buenos Aires;Ferretería;12
+217;Pinnacle Group Services;Misiones;Gastronomía;7
+218;Pinnacle Group Group;Salta;Ropa;8
+219;Innovative Link Associates;Córdoba;Ropa;13
+220;Advanced Forge Net;Misiones;Farmacia;3
+221;Advanced Labs Net;Buenos Aires;Gastronomía;5
+222;Innovative Group Group;Neuquén;Comercio;12
+223;Blue Enterprises Group;Neuquén;Supermercado;1
+224;Advanced Labs Sphere;Córdoba;Supermercado;7
+225;Strategic Innovations Hub;Salta;Servicios;5
+226;Optimal Analytics Group;Entre Ríos;Servicios;8
+227;Blue Systems Hub;Santa Fe;Supermercado;13
+228;Evergreen Systems Associates;Salta;Comercio;8
+229;Premier Link Services;Entre Ríos;Restaurante;9
+230;Strategic Systems Tech;Neuquén;Electrónica;7
+231;Summit Enterprises Sphere;Mendoza;Restaurante;11
+232;Bright Consulting Associates;Buenos Aires;Farmacia;1
+233;Global Solutions Hub;Córdoba;Electrónica;13
+234;Apex Systems Net;Buenos Aires;Electrónica;3
+235;Global Innovations Mark;Chaco;Gastronomía;8
+236;Pinnacle Corp Associates;Chaco;Comercio;3
+237;Bright Dynamics Tech;Salta;Comercio;8
+238;Blue Corp Net;Neuquén;Electrónica;1
+239;Innovative Corp Associates;Neuquén;Gastronomía;5
+240;Summit Group Services;Santa Fe;Electrónica;4
+241;Bright Analytics Inc;Santa Fe;Ferretería;5
+242;Premier Systems Hub;Santa Fe;Servicios;8
+243;Premier Labs Group;Mendoza;Servicios;10
+244;Blue Corp Co;Misiones;Restaurante;14
+245;Optimal Analytics Tech;Tucumán;Farmacia;4
+246;Apex Innovations Mark;Misiones;Servicios;11
+247;Bright Systems Group;Buenos Aires;Ropa;4
+248;Dynamic Labs Associates;Misiones;Restaurante;3
+249;Summit Enterprises Partners;Mendoza;Servicios;7
+250;Evergreen Labs Co;Buenos Aires;Farmacia;3
+251;Premier Link Inc;Misiones;Comercio;12
+252;Summit Innovations Solutions;Mendoza;Comercio;3
+253;Apex Corp Group;Tucumán;Electrónica;11
+254;Innovative Enterprises Services;Misiones;Ferretería;10
+255;Optimal Analytics Sphere;Mendoza;Comercio;5
+256;Summit Analytics Services;Santa Fe;Gastronomía;5
+257;Pinnacle Works Net;Neuquén;Servicios;14
+258;Pinnacle Ventures Services;Santa Fe;Gastronomía;6
+259;Vanguard Works Associates;Neuquén;Farmacia;8
+260;Optimal Innovations Mark;Córdoba;Comercio;10
+261;Global Group Hub;Córdoba;Ferretería;6
+262;Evergreen Ventures Tech;Córdoba;Farmacia;12
+263;Innovative Link Sphere;Tucumán;Ropa;1
+264;Pinnacle Analytics Tech;Santa Fe;Ropa;8
+265;Blue Labs Solutions;Neuquén;Gastronomía;8
+266;Apex Innovations Group;Mendoza;Electrónica;9
+267;Pinnacle Enterprises Hub;Buenos Aires;Restaurante;9
+268;Strategic Corp Group;Mendoza;Electrónica;2
+269;Pinnacle Group Sphere;Buenos Aires;Electrónica;2
+270;Summit Corp Net;Chaco;Ferretería;3
+271;Advanced Analytics Associates;Mendoza;Comercio;1
+272;Bright Ventures Sphere;Misiones;Ferretería;4
+273;Bright Group Partners;Misiones;Farmacia;14
+274;Bright Ventures Associates;Salta;Ropa;4
+275;Evergreen Dynamics Mark;Santa Fe;Ferretería;14
+276;Innovative Innovations Services;Buenos Aires;Farmacia;9
+277;Global Corp Co;Buenos Aires;Ferretería;9
+278;Strategic Solutions Associates;Santa Fe;Electrónica;9
+279;Elite Forge Hub;Tucumán;Servicios;10
+280;Premier Consulting Tech;Salta;Gastronomía;7
+281;Elite Works Inc;Tucumán;Restaurante;14
+282;Innovative Works Group;Tucumán;Ferretería;2
+283;Innovative Edge Associates;Tucumán;Restaurante;10
+284;Vanguard Link Co;Santa Fe;Supermercado;5
+285;Optimal Works Co;Tucumán;Ferretería;4
+286;Evergreen Consulting Services;Misiones;Servicios;12
+287;Dynamic Solutions Services;Córdoba;Restaurante;11
+288;Premier Link Partners;Chaco;Ferretería;8
+289;Advanced Labs Partners;Buenos Aires;Comercio;2
+290;Premier Innovations Solutions;Buenos Aires;Gastronomía;6
+291;Advanced Forge Group;Chaco;Servicios;13
+292;Apex Dynamics Inc;Santa Fe;Restaurante;5
+293;Innovative Innovations Net;Mendoza;Servicios;12
+294;Apex Labs Partners;Santa Fe;Farmacia;2
+295;Advanced Edge Hub;Buenos Aires;Gastronomía;11
+296;Bright Link Partners;Buenos Aires;Ferretería;10
+297;Blue Edge Services;Chaco;Ferretería;1
+298;Pinnacle Dynamics Services;Tucumán;Ferretería;8
+299;Evergreen Corp Hub;Santa Fe;Gastronomía;2
+300;Pinnacle Solutions Solutions;Neuquén;Comercio;7
+301;Dynamic Group Partners;Chaco;Supermercado;9
+302;Apex Solutions Net;Misiones;Ropa;9
+303;Evergreen Consulting Solutions;Buenos Aires;Electrónica;8
+304;Apex Enterprises Hub;Chaco;Restaurante;11
+305;Dynamic Group Co;Santa Fe;Comercio;14
+306;Advanced Corp Sphere;Buenos Aires;Restaurante;12
+307;Bright Works Inc;Mendoza;Ferretería;10
+308;Optimal Consulting Associates;Chaco;Servicios;9
+309;Apex Systems Co;Salta;Restaurante;2
+310;Evergreen Forge Sphere;Buenos Aires;Ferretería;6
+311;Summit Dynamics Hub;Santa Fe;Restaurante;4
+312;Evergreen Link Associates;Córdoba;Servicios;14
+313;Summit Ventures Partners;Neuquén;Ferretería;4
+314;Apex Ventures Mark;Entre Ríos;Supermercado;5
+315;Dynamic Forge Solutions;Tucumán;Comercio;12
+316;Dynamic Edge Co;Entre Ríos;Farmacia;3
+317;Pinnacle Group Co;Santa Fe;Electrónica;14
+318;Pinnacle Works Associates;Misiones;Gastronomía;1
+319;Bright Forge Sphere;Misiones;Electrónica;8
+320;Bright Forge Net;Córdoba;Electrónica;5
+321;Dynamic Consulting Services;Tucumán;Ferretería;3
+322;Premier Edge Associates;Salta;Supermercado;10
+323;Global Enterprises Mark;Córdoba;Farmacia;14
+324;Elite Enterprises Inc;Entre Ríos;Comercio;7
+325;Innovative Group Hub;Córdoba;Comercio;7
+326;Innovative Analytics Mark;Entre Ríos;Servicios;1
+327;Pinnacle Dynamics Inc;Buenos Aires;Gastronomía;12
+328;Evergreen Ventures Solutions;Misiones;Restaurante;9
+329;Optimal Edge Group;Buenos Aires;Supermercado;2
+330;Advanced Consulting Associates;Neuquén;Restaurante;5
+331;Summit Works Hub;Tucumán;Farmacia;13
+332;Vanguard Dynamics Inc;Salta;Electrónica;14
+333;Strategic Labs Inc;Entre Ríos;Comercio;5
+334;Optimal Forge Mark;Salta;Farmacia;14
+335;Bright Solutions Inc;Entre Ríos;Electrónica;8
+336;Bright Edge Group;Santa Fe;Comercio;14
+337;Elite Edge Solutions;Córdoba;Electrónica;8
+338;Bright Labs Co;Neuquén;Gastronomía;14
+339;Global Ventures Hub;Misiones;Supermercado;7
+340;Evergreen Labs Sphere;Entre Ríos;Farmacia;7
+341;Premier Group Inc;Salta;Farmacia;12
+342;Summit Innovations Net;Neuquén;Ropa;11
+343;Premier Analytics Co;Mendoza;Ferretería;6
+344;Premier Forge Co;Mendoza;Gastronomía;6
+345;Global Group Inc;Buenos Aires;Gastronomía;11
+346;Summit Dynamics Associates;Misiones;Restaurante;9
+347;Strategic Ventures Group;Santa Fe;Electrónica;6
+348;Elite Ventures Hub;Salta;Ferretería;12
+349;Apex Analytics Sphere;Córdoba;Supermercado;13
+350;Global Works Mark;Córdoba;Supermercado;13
+351;Blue Edge Net;Salta;Gastronomía;2
+352;Evergreen Works Hub;Tucumán;Supermercado;2
+353;Premier Dynamics Associates;Santa Fe;Ropa;13
+354;Blue Forge Solutions;Neuquén;Farmacia;5
+355;Elite Dynamics Group;Entre Ríos;Servicios;4
+356;Bright Ventures Hub;Tucumán;Restaurante;11
+357;Apex Works Services;Entre Ríos;Electrónica;2
+358;Strategic Corp Inc;Entre Ríos;Electrónica;3
+359;Premier Edge Group;Tucumán;Comercio;7
+360;Optimal Dynamics Net;Buenos Aires;Servicios;8
+361;Global Systems Group;Mendoza;Gastronomía;12
+362;Premier Enterprises Group;Entre Ríos;Ropa;13
+363;Premier Corp Tech;Tucumán;Farmacia;6
+364;Dynamic Link Inc;Tucumán;Farmacia;11
+365;Dynamic Analytics Co;Chaco;Ropa;5
+366;Elite Consulting Mark;Buenos Aires;Ferretería;13
+367;Global Dynamics Inc;Misiones;Comercio;1
+368;Optimal Labs Services;Chaco;Electrónica;8
+369;Bright Corp Net;Chaco;Servicios;3
+370;Pinnacle Corp Sphere;Salta;Supermercado;6
+371;Vanguard Ventures Tech;Mendoza;Comercio;3
+372;Advanced Enterprises Co;Tucumán;Servicios;7
+373;Evergreen Systems Hub;Mendoza;Restaurante;13
+374;Innovative Link Solutions;Santa Fe;Restaurante;14
+375;Evergreen Dynamics Services;Salta;Comercio;7
+376;Blue Link Inc;Misiones;Gastronomía;12
+377;Elite Systems Net;Mendoza;Servicios;9
+378;Bright Link Services;Córdoba;Servicios;5
+379;Apex Edge Solutions;Entre Ríos;Ropa;8
+380;Evergreen Edge Sphere;Santa Fe;Gastronomía;10
+381;Global Link Inc;Buenos Aires;Electrónica;10
+382;Blue Group Group;Misiones;Electrónica;8
+383;Dynamic Innovations Tech;Santa Fe;Supermercado;1
+384;Advanced Enterprises Net;Entre Ríos;Farmacia;12
+385;Vanguard Enterprises Mark;Salta;Restaurante;5
+386;Vanguard Analytics Hub;Entre Ríos;Electrónica;3
+387;Pinnacle Ventures Mark;Chaco;Gastronomía;1
+388;Dynamic Ventures Associates;Entre Ríos;Servicios;4
+389;Innovative Innovations Mark;Chaco;Electrónica;8
+390;Apex Corp Hub;Salta;Servicios;3
+391;Premier Link Mark;Neuquén;Electrónica;10
+392;Vanguard Dynamics Net;Chaco;Restaurante;2
+393;Apex Analytics Group;Buenos Aires;Electrónica;11
+394;Dynamic Solutions Associates;Entre Ríos;Gastronomía;9
+395;Premier Labs Co;Entre Ríos;Electrónica;10
+396;Apex Forge Associates;Buenos Aires;Farmacia;5
+397;Evergreen Innovations Hub;Córdoba;Restaurante;14
+398;Evergreen Enterprises Tech;Tucumán;Gastronomía;7
+399;Vanguard Labs Group;Neuquén;Ropa;11
+400;Strategic Group Associates;Misiones;Gastronomía;11
+401;Dynamic Consulting Sphere;Chaco;Farmacia;2
+402;Global Forge Partners;Buenos Aires;Restaurante;9
+403;Apex Labs Mark;Salta;Ropa;13
+404;Advanced Labs Mark;Chaco;Farmacia;9
+405;Blue Link Co;Tucumán;Farmacia;4
+406;Elite Labs Mark;Salta;Comercio;4
+407;Global Edge Inc;Santa Fe;Restaurante;6
+408;Innovative Forge Mark;Entre Ríos;Gastronomía;10
+409;Bright Works Mark;Santa Fe;Servicios;10
+410;Global Labs Mark;Chaco;Servicios;10
+411;Dynamic Works Hub;Tucumán;Gastronomía;6
+412;Vanguard Works Tech;Neuquén;Gastronomía;12
+413;Innovative Edge Sphere;Chaco;Restaurante;1
+414;Strategic Ventures Solutions;Buenos Aires;Gastronomía;14
+415;Strategic Consulting Mark;Mendoza;Comercio;14
+416;Pinnacle Corp Solutions;Chaco;Ropa;9
+417;Pinnacle Edge Solutions;Entre Ríos;Gastronomía;2
+418;Dynamic Link Co;Entre Ríos;Servicios;5
+419;Bright Innovations Tech;Chaco;Gastronomía;9
+420;Optimal Forge Net;Salta;Comercio;4
+421;Strategic Enterprises Associates;Mendoza;Electrónica;11
+422;Blue Dynamics Sphere;Buenos Aires;Electrónica;3
+423;Bright Innovations Co;Chaco;Farmacia;7
+424;Innovative Edge Group;Salta;Supermercado;6
+425;Summit Ventures Net;Entre Ríos;Ropa;8
+426;Blue Ventures Associates;Entre Ríos;Ferretería;3
+427;Innovative Works Partners;Tucumán;Farmacia;5
+428;Bright Corp Services;Chaco;Electrónica;10
+429;Pinnacle Analytics Net;Mendoza;Servicios;4
+430;Premier Labs Services;Córdoba;Ferretería;13
+431;Innovative Solutions Solutions;Mendoza;Farmacia;4
+432;Pinnacle Forge Hub;Entre Ríos;Ferretería;4
+433;Advanced Edge Group;Entre Ríos;Restaurante;10
+434;Vanguard Corp Co;Santa Fe;Supermercado;8
+435;Optimal Forge Partners;Entre Ríos;Restaurante;6
+436;Vanguard Edge Tech;Buenos Aires;Ferretería;3
+437;Dynamic Consulting Hub;Misiones;Restaurante;10
+438;Global Works Partners;Chaco;Comercio;5
+439;Bright Systems Net;Mendoza;Electrónica;6
+440;Global Corp Services;Misiones;Comercio;5
+441;Elite Forge Mark;Salta;Gastronomía;6
+442;Vanguard Analytics Services;Córdoba;Restaurante;8
+443;Vanguard Enterprises Co;Buenos Aires;Gastronomía;7
+444;Bright Systems Services;Mendoza;Servicios;5
+445;Strategic Analytics Tech;Misiones;Ropa;10
+446;Dynamic Works Sphere;Córdoba;Servicios;6
+447;Innovative Enterprises Solutions;Santa Fe;Ferretería;14
+448;Optimal Solutions Tech;Buenos Aires;Electrónica;4
+449;Optimal Forge Sphere;Buenos Aires;Restaurante;12
+450;Evergreen Works Mark;Santa Fe;Farmacia;9
+451;Apex Innovations Inc;Chaco;Ropa;13
+452;Vanguard Group Inc;Santa Fe;Supermercado;4
+453;Premier Consulting Co;Buenos Aires;Supermercado;1
+454;Blue Analytics Services;Buenos Aires;Supermercado;7
+455;Evergreen Dynamics Sphere;Misiones;Restaurante;7
+456;Summit Group Net;Entre Ríos;Supermercado;4
+457;Premier Consulting Partners;Córdoba;Comercio;13
+458;Optimal Group Associates;Santa Fe;Ropa;14
+459;Apex Systems Inc;Córdoba;Comercio;3
+460;Evergreen Labs Associates;Santa Fe;Ropa;8
+461;Dynamic Dynamics Services;Salta;Comercio;5
+462;Elite Solutions Partners;Buenos Aires;Ropa;10
+463;Blue Group Co;Entre Ríos;Gastronomía;7
+464;Summit Innovations Group;Misiones;Restaurante;4
+465;Strategic Enterprises Tech;Entre Ríos;Restaurante;4
+466;Advanced Systems Hub;Entre Ríos;Supermercado;8
+467;Optimal Works Associates;Entre Ríos;Servicios;14
+468;Summit Works Partners;Córdoba;Supermercado;8
+469;Evergreen Group Tech;Santa Fe;Ferretería;2
+470;Bright Works Partners;Neuquén;Comercio;14
+471;Global Corp Inc;Salta;Ropa;2
+472;Evergreen Labs Hub;Mendoza;Servicios;3
+473;Premier Solutions Hub;Entre Ríos;Ferretería;12
+474;Vanguard Consulting Mark;Chaco;Restaurante;12
+475;Advanced Edge Co;Córdoba;Restaurante;3
+476;Evergreen Systems Tech;Misiones;Supermercado;1
+477;Elite Labs Partners;Mendoza;Comercio;14
+478;Strategic Analytics Solutions;Neuquén;Servicios;3
+479;Dynamic Dynamics Sphere;Chaco;Electrónica;6
+480;Blue Link Sphere;Neuquén;Ferretería;8
+481;Innovative Ventures Services;Mendoza;Ferretería;13
+482;Pinnacle Works Partners;Entre Ríos;Supermercado;12
+483;Elite Forge Partners;Chaco;Restaurante;14
+484;Optimal Consulting Services;Neuquén;Supermercado;10
+485;Summit Works Tech;Misiones;Ropa;6
+486;Premier Enterprises Mark;Santa Fe;Servicios;5
+487;Apex Solutions Inc;Buenos Aires;Comercio;4
+488;Optimal Link Hub;Santa Fe;Gastronomía;3
+489;Innovative Systems Net;Mendoza;Farmacia;13
+490;Apex Enterprises Net;Córdoba;Farmacia;4
+491;Premier Works Associates;Buenos Aires;Supermercado;14
+492;Advanced Link Sphere;Salta;Ropa;7
+493;Advanced Labs Solutions;Misiones;Servicios;1
+494;Premier Works Sphere;Salta;Electrónica;7
+495;Pinnacle Consulting Solutions;Chaco;Farmacia;1
+496;Apex Forge Tech;Buenos Aires;Servicios;2
+497;Bright Edge Services;Salta;Comercio;4
+498;Blue Solutions Solutions;Salta;Ropa;1
+499;Apex Enterprises Services;Neuquén;Restaurante;11
+500;Global Link Sphere;Santa Fe;Servicios;12
+501;Bright Forge Hub;Neuquén;Comercio;11
+502;Elite Innovations Sphere;Buenos Aires;Electrónica;11
+503;Innovative Systems Solutions;Buenos Aires;Gastronomía;9
+504;Elite Group Tech;Mendoza;Restaurante;12
+505;Strategic Consulting Hub;Neuquén;Gastronomía;6
+506;Strategic Labs Associates;Tucumán;Electrónica;13
+507;Blue Edge Associates;Santa Fe;Comercio;1
+508;Apex Corp Services;Buenos Aires;Farmacia;1
+509;Dynamic Solutions Tech;Mendoza;Gastronomía;6
+510;Bright Solutions Partners;Neuquén;Restaurante;4
+511;Advanced Analytics Services;Santa Fe;Supermercado;4
+512;Innovative Works Net;Neuquén;Ferretería;11
+513;Dynamic Solutions Sphere;Salta;Servicios;6
+514;Optimal Solutions Mark;Mendoza;Farmacia;14
+515;Bright Enterprises Associates;Santa Fe;Gastronomía;12
+516;Optimal Analytics Partners;Entre Ríos;Servicios;11
+517;Blue Enterprises Hub;Chaco;Supermercado;7
+518;Apex Solutions Hub;Chaco;Electrónica;9
+519;Strategic Ventures Hub;Santa Fe;Ferretería;10
+520;Blue Link Solutions;Neuquén;Comercio;5
+521;Evergreen Analytics Hub;Mendoza;Supermercado;9
+522;Vanguard Dynamics Mark;Chaco;Supermercado;4
+523;Innovative Edge Co;Mendoza;Electrónica;13
+524;Premier Ventures Mark;Chaco;Ropa;10
+525;Elite Group Co;Salta;Electrónica;2
+526;Dynamic Enterprises Partners;Neuquén;Ropa;3
+527;Apex Consulting Net;Salta;Ropa;13
+528;Vanguard Consulting Sphere;Chaco;Farmacia;11
+529;Apex Consulting Co;Entre Ríos;Farmacia;1
+530;Apex Forge Inc;Entre Ríos;Restaurante;14
+531;Pinnacle Analytics Group;Salta;Gastronomía;14
+532;Evergreen Forge Group;Entre Ríos;Gastronomía;6
+533;Pinnacle Corp Services;Chaco;Comercio;13
+534;Evergreen Consulting Inc;Santa Fe;Gastronomía;6
+535;Optimal Corp Group;Salta;Farmacia;1
+536;Apex Group Co;Córdoba;Restaurante;11
+537;Advanced Analytics Hub;Neuquén;Restaurante;13
+538;Innovative Innovations Inc;Entre Ríos;Ropa;3
+539;Blue Ventures Sphere;Entre Ríos;Electrónica;5
+540;Pinnacle Link Services;Buenos Aires;Comercio;3
+541;Optimal Innovations Net;Tucumán;Ropa;10
+542;Elite Works Group;Salta;Electrónica;3
+543;Innovative Enterprises Associates;Misiones;Gastronomía;14
+544;Evergreen Forge Mark;Entre Ríos;Ropa;10
+545;Optimal Solutions Solutions;Neuquén;Servicios;3
+546;Advanced Works Group;Córdoba;Gastronomía;5
+547;Advanced Forge Solutions;Entre Ríos;Electrónica;13
+548;Blue Edge Tech;Córdoba;Comercio;5
+549;Strategic Corp Net;Chaco;Electrónica;4
+550;Premier Solutions Sphere;Chaco;Ropa;1
+551;Evergreen Group Co;Tucumán;Ropa;5
+552;Global Link Services;Santa Fe;Supermercado;10
+553;Evergreen Systems Solutions;Misiones;Comercio;5
+554;Pinnacle Innovations Mark;Buenos Aires;Gastronomía;4
+555;Premier Consulting Inc;Tucumán;Restaurante;6
+556;Blue Forge Net;Mendoza;Comercio;10
+557;Pinnacle Labs Hub;Buenos Aires;Restaurante;4
+558;Vanguard Dynamics Partners;Salta;Comercio;14
+559;Summit Systems Co;Neuquén;Comercio;7
+560;Pinnacle Works Group;Mendoza;Electrónica;7
+561;Bright Works Tech;Mendoza;Comercio;2
+562;Optimal Analytics Mark;Tucumán;Supermercado;3
+563;Blue Enterprises Services;Santa Fe;Ropa;1
+564;Summit Ventures Group;Tucumán;Ferretería;8
+565;Evergreen Link Group;Salta;Restaurante;9
+566;Innovative Dynamics Mark;Entre Ríos;Ropa;4
+567;Optimal Solutions Associates;Entre Ríos;Ferretería;6
+568;Advanced Innovations Hub;Santa Fe;Restaurante;9
+569;Blue Edge Partners;Salta;Restaurante;6
+570;Strategic Labs Group;Santa Fe;Ferretería;14
+571;Dynamic Solutions Mark;Córdoba;Comercio;12
+572;Strategic Labs Hub;Entre Ríos;Gastronomía;12
+573;Advanced Edge Services;Mendoza;Servicios;12
+574;Elite Forge Tech;Misiones;Ropa;9
+575;Dynamic Solutions Co;Neuquén;Electrónica;4
+576;Elite Ventures Co;Salta;Ropa;8
+577;Summit Analytics Group;Buenos Aires;Electrónica;9
+578;Premier Dynamics Solutions;Santa Fe;Ferretería;4
+579;Premier Innovations Co;Neuquén;Electrónica;5
+580;Evergreen Consulting Tech;Buenos Aires;Restaurante;14
+581;Advanced Systems Tech;Neuquén;Gastronomía;8
+582;Apex Innovations Associates;Misiones;Gastronomía;12
+583;Blue Works Sphere;Buenos Aires;Restaurante;10
+584;Evergreen Dynamics Associates;Tucumán;Supermercado;14
+585;Pinnacle Systems Tech;Chaco;Ferretería;6
+586;Elite Corp Inc;Tucumán;Supermercado;12
+587;Advanced Labs Co;Entre Ríos;Supermercado;7
+588;Strategic Labs Sphere;Chaco;Ropa;3
+589;Dynamic Forge Associates;Tucumán;Ropa;7
+590;Apex Edge Partners;Chaco;Servicios;12
+591;Premier Edge Mark;Chaco;Electrónica;14
+592;Elite Solutions Associates;Mendoza;Restaurante;8
+593;Elite Systems Solutions;Santa Fe;Ropa;10
+594;Blue Solutions Co;Santa Fe;Ferretería;6
+595;Advanced Consulting Mark;Mendoza;Electrónica;10
+596;Blue Ventures Inc;Neuquén;Servicios;9
+597;Vanguard Dynamics Associates;Córdoba;Servicios;13
+598;Apex Works Group;Neuquén;Ferretería;6
+599;Global Analytics Hub;Buenos Aires;Supermercado;12
+600;Bright Edge Tech;Buenos Aires;Gastronomía;9
+601;Innovative Link Partners;Chaco;Ferretería;13
+602;Elite Enterprises Associates;Tucumán;Farmacia;4
+603;Strategic Ventures Sphere;Tucumán;Ferretería;8
+604;Bright Forge Inc;Santa Fe;Servicios;11
+605;Global Consulting Co;Salta;Restaurante;4
+606;Innovative Labs Tech;Neuquén;Ropa;2
+607;Vanguard Labs Associates;Entre Ríos;Restaurante;10
+608;Global Works Hub;Misiones;Servicios;11
+609;Blue Labs Services;Tucumán;Ropa;9
+610;Bright Corp Inc;Misiones;Farmacia;5
+611;Elite Ventures Solutions;Chaco;Gastronomía;4
+612;Blue Edge Hub;Misiones;Electrónica;2
+613;Summit Link Net;Entre Ríos;Servicios;1
+614;Elite Labs Group;Mendoza;Servicios;11
+615;Optimal Link Mark;Entre Ríos;Servicios;7
+616;Innovative Corp Mark;Misiones;Ropa;6
+617;Strategic Forge Hub;Entre Ríos;Comercio;2
+618;Optimal Dynamics Partners;Córdoba;Ferretería;8
+619;Vanguard Analytics Inc;Chaco;Comercio;11
+620;Elite Ventures Associates;Neuquén;Farmacia;4
+621;Dynamic Dynamics Co;Mendoza;Gastronomía;8
+622;Bright Innovations Group;Tucumán;Supermercado;7
+623;Blue Enterprises Inc;Buenos Aires;Farmacia;5
+624;Dynamic Edge Solutions;Neuquén;Supermercado;10
+625;Global Analytics Tech;Buenos Aires;Supermercado;10
+626;Apex Works Partners;Chaco;Gastronomía;12
+627;Blue Edge Sphere;Mendoza;Restaurante;8
+628;Strategic Solutions Mark;Santa Fe;Comercio;14
+629;Innovative Corp Inc;Tucumán;Servicios;9
+630;Summit Enterprises Co;Córdoba;Electrónica;5
+631;Strategic Enterprises Partners;Santa Fe;Supermercado;10
+632;Apex Solutions Co;Chaco;Farmacia;5
+633;Advanced Enterprises Solutions;Neuquén;Restaurante;2
+634;Elite Ventures Inc;Córdoba;Supermercado;5
+635;Advanced Labs Hub;Entre Ríos;Restaurante;3
+636;Bright Link Sphere;Misiones;Restaurante;7
+637;Strategic Systems Sphere;Córdoba;Supermercado;10
+638;Summit Link Services;Chaco;Ropa;5
+639;Strategic Dynamics Hub;Salta;Ferretería;8
+640;Evergreen Link Co;Misiones;Servicios;1
+641;Elite Works Sphere;Buenos Aires;Servicios;3
+642;Bright Works Sphere;Tucumán;Ropa;3
+643;Elite Consulting Partners;Buenos Aires;Servicios;9
+644;Innovative Forge Net;Córdoba;Restaurante;5
+645;Evergreen Solutions Solutions;Buenos Aires;Gastronomía;12
+646;Advanced Ventures Inc;Chaco;Farmacia;9
+647;Summit Group Co;Entre Ríos;Comercio;13
+648;Advanced Enterprises Hub;Neuquén;Servicios;9
+649;Elite Consulting Net;Tucumán;Gastronomía;1
+650;Strategic Corp Co;Buenos Aires;Supermercado;2
+651;Bright Enterprises Net;Buenos Aires;Ferretería;5
+652;Strategic Enterprises Co;Córdoba;Restaurante;4
+653;Advanced Labs Tech;Neuquén;Ferretería;10
+654;Optimal Ventures Group;Santa Fe;Farmacia;9
+655;Pinnacle Analytics Inc;Buenos Aires;Farmacia;7
+656;Optimal Link Tech;Chaco;Ropa;6
+657;Strategic Dynamics Partners;Salta;Electrónica;7
+658;Evergreen Group Services;Tucumán;Ropa;1
+659;Blue Group Inc;Buenos Aires;Gastronomía;1
+660;Dynamic Edge Services;Chaco;Ferretería;8
+661;Optimal Innovations Solutions;Chaco;Electrónica;13
+662;Bright Corp Co;Tucumán;Supermercado;13
+663;Strategic Analytics Mark;Santa Fe;Restaurante;2
+664;Summit Solutions Services;Chaco;Ferretería;12
+665;Strategic Dynamics Solutions;Salta;Ropa;10
+666;Elite Labs Services;Chaco;Comercio;11
+667;Strategic Ventures Inc;Chaco;Electrónica;9
+668;Dynamic Labs Services;Chaco;Electrónica;7
+669;Vanguard Analytics Co;Entre Ríos;Restaurante;6
+670;Dynamic Forge Inc;Entre Ríos;Servicios;1
+671;Evergreen Link Hub;Santa Fe;Farmacia;1
+672;Elite Corp Mark;Buenos Aires;Farmacia;2
+673;Optimal Labs Net;Chaco;Comercio;6
+674;Evergreen Group Solutions;Neuquén;Gastronomía;14
+675;Summit Systems Solutions;Buenos Aires;Gastronomía;6
+676;Innovative Group Sphere;Santa Fe;Supermercado;2
+677;Vanguard Link Net;Mendoza;Ferretería;1
+678;Global Corp Hub;Buenos Aires;Servicios;10
+679;Optimal Works Mark;Buenos Aires;Ropa;5
+680;Optimal Link Associates;Misiones;Electrónica;5
+681;Summit Systems Mark;Córdoba;Comercio;2
+682;Bright Link Tech;Misiones;Farmacia;6
+683;Strategic Edge Sphere;Salta;Supermercado;9
+684;Vanguard Consulting Solutions;Entre Ríos;Gastronomía;2
+685;Optimal Edge Associates;Entre Ríos;Comercio;10
+686;Pinnacle Innovations Tech;Córdoba;Electrónica;2
+687;Summit Forge Solutions;Tucumán;Ropa;3
+688;Premier Corp Hub;Tucumán;Supermercado;13
+689;Blue Enterprises Solutions;Santa Fe;Electrónica;7
+690;Premier Forge Net;Córdoba;Farmacia;6
+691;Vanguard Ventures Net;Buenos Aires;Farmacia;12
+692;Advanced Dynamics Inc;Tucumán;Farmacia;8
+693;Blue Consulting Sphere;Chaco;Comercio;8
+694;Innovative Consulting Solutions;Neuquén;Comercio;6
+695;Dynamic Link Mark;Buenos Aires;Gastronomía;12
+696;Apex Systems Mark;Salta;Gastronomía;11
+697;Innovative Systems Hub;Chaco;Ropa;10
+698;Global Systems Inc;Chaco;Supermercado;3
+699;Strategic Link Solutions;Córdoba;Restaurante;3
+700;Blue Innovations Services;Santa Fe;Restaurante;1
+701;Premier Dynamics Partners;Salta;Electrónica;7
+702;Apex Analytics Tech;Tucumán;Farmacia;5
+703;Apex Forge Hub;Córdoba;Supermercado;4
+704;Vanguard Corp Sphere;Tucumán;Comercio;10
+705;Blue Works Co;Córdoba;Ferretería;4
+706;Premier Systems Mark;Córdoba;Servicios;14
+707;Global Ventures Group;Córdoba;Ropa;4
+708;Premier Group Solutions;Santa Fe;Farmacia;6
+709;Blue Systems Tech;Córdoba;Farmacia;8
+710;Summit Group Hub;Mendoza;Farmacia;8
+711;Optimal Corp Services;Neuquén;Comercio;5
+712;Pinnacle Solutions Mark;Tucumán;Comercio;6
+713;Evergreen Analytics Associates;Buenos Aires;Servicios;4
+714;Vanguard Solutions Sphere;Misiones;Supermercado;12
+715;Dynamic Analytics Net;Salta;Farmacia;14
+716;Global Corp Sphere;Entre Ríos;Restaurante;11
+717;Evergreen Corp Group;Santa Fe;Gastronomía;13
+718;Premier Analytics Associates;Buenos Aires;Restaurante;9
+719;Global Edge Sphere;Chaco;Electrónica;8
+720;Bright Analytics Co;Mendoza;Restaurante;10
+721;Elite Innovations Solutions;Entre Ríos;Electrónica;12
+722;Bright Analytics Solutions;Misiones;Ferretería;10
+723;Advanced Labs Associates;Buenos Aires;Gastronomía;1
+724;Dynamic Solutions Solutions;Entre Ríos;Restaurante;2
+725;Dynamic Innovations Sphere;Buenos Aires;Ferretería;9
+726;Elite Edge Sphere;Mendoza;Ropa;8
+727;Dynamic Works Services;Misiones;Supermercado;14
+728;Dynamic Link Tech;Chaco;Ferretería;3
+729;Apex Group Partners;Córdoba;Supermercado;8
+730;Pinnacle Ventures Solutions;Tucumán;Restaurante;12
+731;Vanguard Solutions Solutions;Chaco;Ferretería;1
+732;Elite Solutions Inc;Córdoba;Gastronomía;10
+733;Summit Forge Tech;Santa Fe;Restaurante;4
+734;Summit Dynamics Sphere;Neuquén;Farmacia;3
+735;Evergreen Solutions Mark;Salta;Comercio;6
+736;Vanguard Enterprises Solutions;Salta;Ferretería;7
+737;Global Edge Group;Tucumán;Gastronomía;4
+738;Bright Link Associates;Misiones;Ropa;7
+739;Advanced Dynamics Associates;Mendoza;Farmacia;9
+740;Blue Analytics Co;Misiones;Ropa;11
+741;Global Analytics Services;Mendoza;Restaurante;2
+742;Dynamic Forge Services;Misiones;Comercio;11
+743;Pinnacle Innovations Hub;Neuquén;Ferretería;3
+744;Strategic Link Mark;Santa Fe;Ferretería;5
+745;Blue Dynamics Associates;Santa Fe;Restaurante;3
+746;Elite Labs Sphere;Córdoba;Restaurante;11
+747;Elite Systems Co;Entre Ríos;Comercio;8
+748;Optimal Forge Inc;Santa Fe;Gastronomía;12
+749;Blue Solutions Associates;Santa Fe;Gastronomía;10
+750;Blue Labs Co;Chaco;Comercio;8
+751;Summit Labs Solutions;Chaco;Gastronomía;8
+752;Elite Enterprises Mark;Córdoba;Electrónica;12
+753;Vanguard Corp Hub;Entre Ríos;Supermercado;12
+754;Blue Group Sphere;Tucumán;Comercio;9
+755;Elite Dynamics Tech;Chaco;Comercio;4
+756;Blue Forge Inc;Tucumán;Servicios;5
+757;Summit Corp Tech;Buenos Aires;Farmacia;5
+758;Elite Group Partners;Chaco;Farmacia;8
+759;Advanced Group Hub;Neuquén;Electrónica;7
+760;Pinnacle Consulting Associates;Entre Ríos;Restaurante;9
+761;Global Labs Net;Córdoba;Restaurante;14
+762;Dynamic Works Co;Buenos Aires;Ropa;8
+763;Vanguard Analytics Sphere;Entre Ríos;Electrónica;2
+764;Innovative Analytics Inc;Neuquén;Comercio;10
+765;Dynamic Analytics Group;Entre Ríos;Electrónica;12
+766;Vanguard Works Services;Neuquén;Electrónica;4
+767;Innovative Ventures Solutions;Neuquén;Electrónica;6
+768;Global Dynamics Mark;Tucumán;Farmacia;12
+769;Dynamic Innovations Co;Misiones;Electrónica;2
+770;Dynamic Corp Services;Buenos Aires;Supermercado;7
+771;Elite Group Sphere;Entre Ríos;Restaurante;3
+772;Strategic Group Hub;Mendoza;Ropa;13
+773;Pinnacle Link Sphere;Buenos Aires;Supermercado;3
+774;Strategic Enterprises Solutions;Misiones;Ropa;11
+775;Strategic Edge Mark;Buenos Aires;Servicios;2
+776;Strategic Systems Associates;Santa Fe;Ropa;11
+777;Evergreen Consulting Hub;Mendoza;Restaurante;8
+778;Bright Edge Co;Misiones;Restaurante;6
+779;Advanced Forge Mark;Tucumán;Electrónica;1
+780;Advanced Forge Inc;Entre Ríos;Ferretería;12
+781;Vanguard Enterprises Associates;Salta;Servicios;1
+782;Dynamic Works Inc;Misiones;Comercio;7
+783;Strategic Ventures Services;Córdoba;Gastronomía;8
+784;Vanguard Group Associates;Entre Ríos;Ropa;5
+785;Pinnacle Dynamics Group;Misiones;Ferretería;12
+786;Strategic Dynamics Services;Santa Fe;Electrónica;11
+787;Evergreen Systems Group;Salta;Farmacia;5
+788;Global Innovations Tech;Santa Fe;Comercio;4
+789;Optimal Innovations Sphere;Salta;Ferretería;14
+790;Dynamic Edge Mark;Córdoba;Farmacia;6
+791;Premier Innovations Net;Entre Ríos;Servicios;14
+792;Blue Solutions Group;Tucumán;Electrónica;6
+793;Summit Link Hub;Santa Fe;Comercio;3
+794;Optimal Enterprises Group;Santa Fe;Comercio;9
+795;Evergreen Forge Services;Neuquén;Comercio;12
+796;Apex Edge Mark;Salta;Servicios;11
+797;Dynamic Consulting Partners;Chaco;Ropa;14
+798;Innovative Ventures Sphere;Entre Ríos;Servicios;7
+799;Summit Link Co;Salta;Gastronomía;1
+800;Premier Forge Mark;Neuquén;Restaurante;13
+801;Premier Dynamics Services;Buenos Aires;Electrónica;7
+802;Evergreen Labs Solutions;Salta;Servicios;5
+803;Vanguard Analytics Net;Tucumán;Farmacia;5
+804;Dynamic Forge Group;Entre Ríos;Gastronomía;14
+805;Bright Group Tech;Neuquén;Restaurante;13
+806;Pinnacle Dynamics Partners;Buenos Aires;Ropa;2
+807;Blue Link Hub;Mendoza;Farmacia;4
+808;Strategic Works Hub;Neuquén;Electrónica;12
+809;Pinnacle Systems Services;Mendoza;Farmacia;6
+810;Premier Analytics Sphere;Entre Ríos;Restaurante;10
+811;Pinnacle Link Group;Santa Fe;Farmacia;11
+812;Strategic Consulting Inc;Neuquén;Supermercado;7
+813;Bright Forge Services;Córdoba;Ferretería;11
+814;Pinnacle Corp Mark;Mendoza;Ropa;5
+815;Vanguard Group Solutions;Tucumán;Restaurante;9
+816;Advanced Consulting Inc;Córdoba;Farmacia;3
+817;Advanced Corp Services;Misiones;Ferretería;1
+818;Blue Innovations Net;Misiones;Ferretería;4
+819;Global Dynamics Services;Buenos Aires;Farmacia;9
+820;Advanced Solutions Solutions;Santa Fe;Electrónica;4
+821;Premier Consulting Associates;Entre Ríos;Supermercado;2
+822;Optimal Innovations Tech;Neuquén;Servicios;10
+823;Strategic Forge Inc;Chaco;Supermercado;14
+824;Dynamic Group Hub;Tucumán;Farmacia;14
+825;Innovative Edge Mark;Mendoza;Ropa;5
+826;Vanguard Works Partners;Entre Ríos;Servicios;3
+827;Elite Group Associates;Córdoba;Restaurante;13
+828;Advanced Labs Services;Misiones;Supermercado;12
+829;Apex Group Services;Tucumán;Farmacia;13
+830;Global Link Co;Chaco;Supermercado;9
+831;Premier Dynamics Inc;Neuquén;Servicios;4
+832;Apex Labs Associates;Buenos Aires;Gastronomía;6
+833;Apex Solutions Solutions;Chaco;Supermercado;2
+834;Advanced Corp Solutions;Tucumán;Restaurante;6
+835;Premier Forge Hub;Chaco;Restaurante;3
+836;Strategic Solutions Hub;Tucumán;Comercio;12
+837;Advanced Enterprises Services;Tucumán;Supermercado;12
+838;Innovative Corp Solutions;Salta;Electrónica;9
+839;Innovative Systems Associates;Mendoza;Ferretería;11
+840;Innovative Dynamics Associates;Misiones;Ferretería;2
+841;Vanguard Solutions Group;Salta;Ferretería;12
+842;Vanguard Enterprises Sphere;Neuquén;Gastronomía;12
+843;Elite Group Inc;Salta;Comercio;9
+844;Optimal Works Hub;Santa Fe;Gastronomía;5
+845;Global Enterprises Services;Santa Fe;Supermercado;8
+846;Premier Ventures Hub;Misiones;Supermercado;2
+847;Vanguard Systems Sphere;Chaco;Supermercado;6
+848;Elite Labs Tech;Mendoza;Ropa;3
+849;Evergreen Corp Services;Misiones;Ferretería;12
+850;Pinnacle Enterprises Sphere;Tucumán;Ropa;12
+851;Summit Corp Solutions;Córdoba;Comercio;14
+852;Pinnacle Consulting Inc;Mendoza;Gastronomía;10
+853;Optimal Group Net;Mendoza;Ferretería;5
+854;Global Ventures Solutions;Tucumán;Ropa;12
+855;Strategic Group Group;Tucumán;Ropa;8
+856;Pinnacle Forge Group;Buenos Aires;Farmacia;10
+857;Global Works Group;Misiones;Ropa;14
+858;Apex Innovations Sphere;Tucumán;Electrónica;1
+859;Elite Works Associates;Santa Fe;Electrónica;5
+860;Vanguard Forge Group;Neuquén;Gastronomía;3
+861;Blue Corp Associates;Córdoba;Electrónica;4
+862;Bright Solutions Group;Misiones;Gastronomía;2
+863;Vanguard Labs Services;Entre Ríos;Gastronomía;9
+864;Elite Analytics Partners;Santa Fe;Comercio;3
+865;Elite Link Services;Chaco;Farmacia;2
+866;Global Forge Associates;Tucumán;Supermercado;10
+867;Pinnacle Solutions Net;Entre Ríos;Restaurante;11
+868;Pinnacle Consulting Co;Tucumán;Gastronomía;9
+869;Vanguard Labs Inc;Mendoza;Servicios;7
+870;Vanguard Systems Mark;Santa Fe;Supermercado;6
+871;Advanced Edge Net;Mendoza;Ferretería;1
+872;Evergreen Edge Mark;Buenos Aires;Electrónica;5
+873;Vanguard Labs Co;Mendoza;Restaurante;12
+874;Evergreen Link Partners;Buenos Aires;Servicios;11
+875;Elite Solutions Co;Buenos Aires;Supermercado;14
+876;Dynamic Labs Mark;Entre Ríos;Comercio;11
+877;Pinnacle Enterprises Partners;Tucumán;Ferretería;3
+878;Summit Forge Group;Chaco;Restaurante;1
+879;Optimal Systems Tech;Mendoza;Farmacia;4
+880;Optimal Corp Co;Santa Fe;Comercio;13
+881;Innovative Analytics Tech;Buenos Aires;Servicios;2
+882;Strategic Innovations Services;Tucumán;Restaurante;2
+883;Global Innovations Group;Córdoba;Comercio;3
+884;Premier Enterprises Services;Misiones;Ferretería;8
+885;Global Solutions Associates;Entre Ríos;Farmacia;8
+886;Apex Link Hub;Chaco;Comercio;12
+887;Innovative Forge Inc;Salta;Ropa;7
+888;Strategic Systems Inc;Entre Ríos;Farmacia;6
+889;Bright Ventures Net;Córdoba;Servicios;9
+890;Apex Edge Associates;Misiones;Ferretería;4
+891;Strategic Works Net;Córdoba;Electrónica;12
+892;Summit Labs Associates;Mendoza;Electrónica;1
+893;Bright Labs Hub;Buenos Aires;Electrónica;8
+894;Optimal Forge Associates;Chaco;Restaurante;7
+895;Evergreen Analytics Tech;Neuquén;Servicios;7
+896;Optimal Corp Tech;Buenos Aires;Ferretería;3
+897;Elite Labs Associates;Neuquén;Farmacia;4
+898;Premier Solutions Services;Misiones;Restaurante;10
+899;Pinnacle Ventures Inc;Tucumán;Servicios;9
+900;Evergreen Enterprises Co;Salta;Ropa;6
+901;Summit Analytics Hub;Santa Fe;Ferretería;5
+902;Apex Edge Co;Buenos Aires;Electrónica;3
+903;Elite Labs Hub;Chaco;Comercio;9
+904;Innovative Link Mark;Córdoba;Ferretería;5
+905;Dynamic Systems Associates;Chaco;Gastronomía;5
+906;Global Ventures Net;Misiones;Servicios;14
+907;Premier Enterprises Inc;Neuquén;Supermercado;4
+908;Advanced Innovations Services;Córdoba;Ropa;14
+909;Advanced Corp Tech;Santa Fe;Ferretería;4
+910;Vanguard Group Partners;Santa Fe;Supermercado;12
+911;Bright Analytics Associates;Buenos Aires;Gastronomía;1
+912;Elite Solutions Hub;Misiones;Farmacia;7
+913;Dynamic Edge Group;Tucumán;Comercio;9
+914;Bright Dynamics Sphere;Misiones;Supermercado;3
+915;Dynamic Link Solutions;Neuquén;Servicios;12
+916;Advanced Analytics Inc;Chaco;Electrónica;13
+917;Evergreen Systems Sphere;Santa Fe;Gastronomía;2
+918;Vanguard Enterprises Partners;Chaco;Comercio;3
+919;Blue Dynamics Mark;Chaco;Ropa;1
+920;Advanced Solutions Inc;Chaco;Electrónica;6
+921;Pinnacle Enterprises Co;Santa Fe;Ferretería;11
+922;Blue Works Solutions;Entre Ríos;Supermercado;11
+923;Evergreen Systems Inc;Mendoza;Comercio;7
+924;Premier Dynamics Group;Neuquén;Restaurante;11
+925;Bright Corp Mark;Entre Ríos;Farmacia;11
+926;Apex Link Net;Neuquén;Farmacia;2
+927;Bright Systems Inc;Córdoba;Gastronomía;8
+928;Strategic Edge Associates;Misiones;Ropa;14
+929;Evergreen Forge Hub;Misiones;Gastronomía;6
+930;Evergreen Corp Inc;Salta;Restaurante;14
+931;Dynamic Analytics Inc;Misiones;Servicios;4
+932;Evergreen Labs Partners;Santa Fe;Ropa;5
+933;Bright Works Associates;Tucumán;Servicios;8
+934;Elite Solutions Solutions;Buenos Aires;Ropa;14
+935;Blue Works Associates;Salta;Ropa;3
+936;Dynamic Labs Net;Buenos Aires;Restaurante;3
+937;Evergreen Ventures Partners;Neuquén;Ferretería;14
+938;Vanguard Analytics Group;Buenos Aires;Restaurante;14
+939;Dynamic Enterprises Mark;Buenos Aires;Ropa;11
+940;Strategic Labs Tech;Salta;Comercio;4
+941;Pinnacle Solutions Associates;Córdoba;Servicios;1
+942;Innovative Labs Group;Chaco;Restaurante;9
+943;Optimal Consulting Sphere;Misiones;Ferretería;8
+944;Strategic Consulting Group;Misiones;Supermercado;8
+945;Evergreen Enterprises Partners;Santa Fe;Gastronomía;14
+946;Summit Forge Hub;Salta;Ropa;10
+947;Evergreen Systems Co;Santa Fe;Supermercado;6
+948;Blue Consulting Group;Tucumán;Farmacia;7
+949;Blue Dynamics Tech;Tucumán;Electrónica;6
+950;Global Labs Tech;Santa Fe;Ferretería;9
+951;Elite Ventures Mark;Salta;Electrónica;3
+952;Bright Systems Co;Santa Fe;Ferretería;14
+953;Apex Innovations Net;Misiones;Comercio;3
+954;Pinnacle Link Associates;Entre Ríos;Gastronomía;3
+955;Strategic Enterprises Net;Mendoza;Supermercado;10
+956;Apex Innovations Tech;Buenos Aires;Servicios;3
+957;Pinnacle Dynamics Hub;Mendoza;Ferretería;9
+958;Pinnacle Corp Group;Salta;Servicios;12
+959;Strategic Works Inc;Mendoza;Gastronomía;4
+960;Strategic Forge Services;Tucumán;Ropa;13
+961;Evergreen Edge Tech;Neuquén;Farmacia;7
+962;Elite Corp Tech;Buenos Aires;Supermercado;14
+963;Blue Innovations Partners;Chaco;Gastronomía;9
+964;Global Edge Tech;Salta;Gastronomía;11
+965;Apex Analytics Partners;Buenos Aires;Comercio;12
+966;Dynamic Works Solutions;Mendoza;Electrónica;7
+967;Innovative Labs Co;Tucumán;Farmacia;9
+968;Premier Consulting Hub;Córdoba;Supermercado;12
+969;Advanced Consulting Group;Entre Ríos;Ropa;3
+970;Evergreen Ventures Net;Chaco;Ropa;4
+971;Blue Link Net;Entre Ríos;Restaurante;14
+972;Evergreen Dynamics Group;Buenos Aires;Gastronomía;8
+973;Innovative Works Sphere;Tucumán;Ferretería;6
+974;Elite Link Group;Tucumán;Comercio;5
+975;Premier Corp Co;Mendoza;Farmacia;13
+976;Strategic Analytics Inc;Misiones;Ropa;4
+977;Pinnacle Enterprises Net;Mendoza;Supermercado;8
+978;Dynamic Corp Mark;Misiones;Restaurante;1
+979;Global Innovations Sphere;Misiones;Supermercado;14
+980;Summit Labs Hub;Chaco;Comercio;9
+981;Vanguard Ventures Hub;Mendoza;Ferretería;1
+982;Advanced Corp Inc;Córdoba;Restaurante;8
+983;Global Consulting Net;Santa Fe;Restaurante;4
+984;Pinnacle Works Hub;Santa Fe;Electrónica;9
+985;Evergreen Works Solutions;Mendoza;Farmacia;14
+986;Elite Enterprises Net;Mendoza;Restaurante;11
+987;Global Solutions Services;Entre Ríos;Electrónica;5
+988;Innovative Link Co;Chaco;Electrónica;3
+989;Strategic Forge Sphere;Mendoza;Comercio;9
+990;Elite Systems Services;Entre Ríos;Servicios;11
+991;Bright Solutions Hub;Misiones;Supermercado;14
+992;Premier Systems Co;Tucumán;Ferretería;14
+993;Optimal Labs Partners;Tucumán;Supermercado;9
+994;Evergreen Consulting Net;Misiones;Restaurante;4
+995;Dynamic Link Associates;Salta;Ferretería;11
+996;Advanced Systems Sphere;Entre Ríos;Ropa;4
+997;Premier Dynamics Tech;Entre Ríos;Servicios;12
+998;Strategic Innovations Net;Misiones;Ropa;8
+999;Evergreen Corp Mark;Córdoba;Ropa;2
+1000;Apex Consulting Group;Neuquén;Farmacia;9
