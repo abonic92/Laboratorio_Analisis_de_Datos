@@ -1,9 +1,9 @@
 # 📊 Análisis de Empresa de Servicios POSNET — Expansión Nacional
 
 ## Descripción del proyecto
-Este repositorio contiene un Análisis Exploratorio de Datos (EDA) realizado sobre una empresa de servicios POSNET que actualmente opera en el país y busca expandir su cobertura comercial. El objetivo principal del estudio es evaluar el rendimiento actual, identificar patrones de comportamiento y detectar oportunidades de crecimiento a partir del análisis de los datos de operaciones y puntos de venta.
+Este repositorio contiene un Análisis Exploratorio de Datos (EDA) realizado sobre una empresa de servicios  terminales de cobros (Tipo POSNET, LAPOST) que opera en el país y busca expandir su cobertura comercial. El objetivo principal del estudio es evaluar el rendimiento actual, identificar patrones de comportamiento y detectar oportunidades de crecimiento a partir del análisis de los datos de operaciones y puntos de venta.
 
-El flujo de trabajo aplicado incluye un proceso integral de Extracción, Transformación y Carga (ETL), limpieza y agregación de datos, y visualizaciones para apoyar la interpretación de resultados. Todo el análisis fue realizado con Python y notebooks interactivos.
+El flujo de trabajo aplicado incluye un proceso integral de Extracción, Transformación y Carga (ETL), limpieza y agregación de datos, y visualizaciones para apoyar la interpretación de result
 
 ---
 
@@ -11,18 +11,27 @@ El flujo de trabajo aplicado incluye un proceso integral de Extracción, Transfo
 Proyecto_POSNET/
 │
 ├── Laboratorio.ipynb        # Notebook principal con el análisis completo  
-├── datos/                   # Carpeta con los datasets CSV 
+├── Input/                   # Carpeta con los datasets CSV 
 │   └── ...                  # Archivos utilizados en el análisis  
+├── Ouput/                   # Carpeta con los datasets CSV 
+│   └── ...                  # Archivo transformado para analisis
 └── README.md                # Este archivo
 
 ---
 
 ## Tecnologías y librerías principales
-- Python 3.x  
+- Python 
 - pandas — manipulación y transformación de datos  
 - numpy — cálculos numéricos  
 - colab — entorno para ejecutar el notebook
 
+##Guía de Uso
+Para replicar este análisis, seguí los siguientes pasos:
+
+Cloná este repositorio en tu máquina local. https://github.com/abonic92/Laboratorio_Analisis_de_Datos.git
+Abrí el archivo Laboratorio.ipynb en Google Colab o Jupyter.
+Aseguráte de que los archivos info_terminales.csv  y  ingesta_posnet.csv  que estan el la carpeta input de este repositorio, esten en el mismo directorio.
+Ejecutá las celdas del notebook secuencialmente para ver el flujo completo del análisis.
 
 ## Objetivos del análisis
 - Analizar el comportamiento operativo de POSNET a nivel nacional.  
@@ -37,9 +46,4 @@ Bonfanti Adrián Nicolás
 Especialización en Análisis de Datos  
 📅 2025
 
-Contacto: (agregar correo o perfil GitHub si lo deseás)
 
----
-
-## Licencia
-Este repositorio no incluye licencia explícita. Si querés compartirlo públicamente bajo una licencia abierta, considerá agregar un archivo `LICENSE` (por ejemplo MIT).
